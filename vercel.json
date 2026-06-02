@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd inclusive-track-training && npm install && npm run build",
+  "installCommand": "cd inclusive-track-training && npm install",
+  "outputDirectory": "inclusive-track-training/.next"
+}
